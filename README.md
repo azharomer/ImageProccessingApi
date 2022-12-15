@@ -3,7 +3,7 @@
 project use node js and express to create api
 make resize to image if exist in images folder.
 
-## EndPonints in app
+## EndPoints in app
 
 1- get list of files names in folder images
 
